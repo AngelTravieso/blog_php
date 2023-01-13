@@ -1,3 +1,7 @@
+.main-content {
+    min-height: 100vh;
+}
+
 .square {
     display: inline-block;
     width: 200px;
@@ -12,8 +16,9 @@
     animation: slide 4s infinite linear;
 }
 
-.main-content {
-    min-height: 100vh;
+/* Utilitarios */
+.cursor-pointer {
+    cursor: pointer;
 }
 
 /* animacion izquierda derecha */
